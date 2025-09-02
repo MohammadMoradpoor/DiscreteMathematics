@@ -1,0 +1,40 @@
+Relation Closure Calculation Results
+==================================
+
+Elements: A, B, C, D
+
+Original Relation Matrix R (R¹):
+A: 0 1 0 1
+B: 1 0 1 1
+C: 1 1 1 1
+D: 0 1 0 0
+
+R^2 (Relation Composed 2 Times):
+A: 1 1 1 1
+B: 1 1 1 1
+C: 1 1 1 1
+D: 1 0 1 1
+
+R^3 (Relation Composed 3 Times):
+A: 1 1 1 1
+B: 1 1 1 1
+C: 1 1 1 1
+D: 1 1 1 1
+
+R^4 (Relation Composed 4 Times):
+A: 1 1 1 1
+B: 1 1 1 1
+C: 1 1 1 1
+D: 1 1 1 1
+
+R^5 (Relation Composed 5 Times):
+A: 1 1 1 1
+B: 1 1 1 1
+C: 1 1 1 1
+D: 1 1 1 1
+
+R^∞ (Transitive Closure):
+A: 1 1 1 1
+B: 1 1 1 1
+C: 1 1 1 1
+D: 1 1 1 1

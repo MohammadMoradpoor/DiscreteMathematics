@@ -1,0 +1,22 @@
+Boolean Matrix Operations Results
+===============================
+
+Matrix A:
+1 1 1
+0 0 0
+1 1 1
+
+Matrix B:
+0 1 0
+1 0 1
+0 1 0
+
+Boolean Matrix Addition (A ∨ B):
+1 1 1
+1 0 1
+1 1 1
+
+Boolean Matrix AND (A ∧ B):
+0 1 0
+0 0 0
+0 1 0

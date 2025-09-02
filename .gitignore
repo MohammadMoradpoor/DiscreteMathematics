@@ -1,0 +1,112 @@
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+.pnp/
+.pnp.js
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+ENV/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build outputs
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+*.so
+*.egg
+*.egg-info/
+*.spec
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+lerna-debug.log*
+logs/
+*.log
+
+# IDE and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+*.swp
+*.swo
+*~
+.DS_Store
+.settings/
+.vs/
+*.code-workspace
+nbproject/
+.netbeans.xml
+
+# Testing
+coverage/
+.nyc_output/
+.hypothesis/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Cache
+.cache/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+.grunt
+.webpack
+
+# Misc
+.DS_Store
+Thumbs.db
+.sass-cache/
+.tmp/
+*.bak
+*.swp
+*.tmp
+temp/
+tmp/
+archive/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
